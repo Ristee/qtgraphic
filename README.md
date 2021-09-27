@@ -1,5 +1,7 @@
 # How to create graphic in QT (MacOS)
 
+![Parabola](parabola.png)
+
 1. Install XCode (Check actual version https://xcodereleases.com/)
 2. Install QT (Try download for open source https://www.qt.io/download/). You need to sign up for download. You will use Online Installer. Choose "Design Tools", "Qt a.b for desktop development" (or other if you want) checkboxes.
 3. Download https://www.qcustomplot.com/index.php/download
